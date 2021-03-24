@@ -12,15 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="DBInterfaceCommonLib">
-      <HintPath>D:\CET\Common\DBInterfaceCommonLib.dll</HintPath>
-    </Reference>
-    <Reference Include="PECSDBInterface">
-      <HintPath>D:\CET\Common\PECSDBInterface.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="OPC Foundation\CertificateStores\MachineDefault\certs\CET-Opcua [9FF8D567E039086661245AA5CDA7AB293DAC5AE4].der">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
